@@ -1,0 +1,139 @@
+body {
+  background-color: #FFF8F3;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 3.75rem;
+  font-family: 'Merriweather', serif;
+  margin-bottom: 0.5px;
+  text-align: center;
+  line-height: 2;
+}
+
+h2 {
+  color: #A267AC;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.75rem;
+}
+
+h3 {
+  font-size: 1.10rem;
+  color: #A267AC;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  text-align: left;
+  line-height: 2;
+}
+
+hr {
+  border-style: none;
+  width: 5%;
+  border-top-style: dotted;
+  border-top-color: #DFDFDE;
+  border-width: 4px;
+}
+
+.developer {
+  margin-top: 5px;
+  text-align: center;
+}
+
+.profileImage {
+  border-radius: 100%;
+}
+
+
+.intro {
+  width: 60%;
+  margin: auto;
+}
+
+.code-img {
+  float: left;
+  margin-right: 30px;
+}
+
+.teamwork-img {
+  float: right;
+  margin-left: 30px;
+}
+
+.communication-img {
+  float: left;
+  margin-right: 30px;
+}
+
+.profile {
+  margin: 50px auto 50px auto;
+}
+
+.skill-row {
+  width: 70%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+}
+
+.skills {
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.contact-me {
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.contact-message {
+  width: 60%;
+  margin: 40px auto 40px auto;
+}
+
+.bottom-container {
+  background-color: #A267AC;
+  margin-top: 40px;
+  padding: 50px 0 20px;
+}
+
+.footer-link {
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #ffffff;
+}
+
+.copyright {
+  text-align: center;
+  font-size: 0.75rem;
+  padding-top: 20px;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #A267AC;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #CE7BB0;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
